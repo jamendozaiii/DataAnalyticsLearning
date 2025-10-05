@@ -1,0 +1,7 @@
+I am saving all my notes here that I think are worth saving when reviewing what I did in the course thus far
+
+SELECT 
+  DISTINCT fuel_type
+FROM 
+  `vertical-kayak-473200-e1.cars.cars_info`
+LIMIT 1000
