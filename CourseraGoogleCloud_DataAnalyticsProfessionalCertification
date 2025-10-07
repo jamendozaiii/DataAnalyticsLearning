@@ -5,3 +5,5 @@ SELECT
 FROM 
   `vertical-kayak-473200-e1.cars.cars_info`
 LIMIT 1000
+
+I got some notes here that weren't saved and got lost
