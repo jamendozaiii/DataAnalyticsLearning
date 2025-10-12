@@ -1,4 +1,4 @@
-Movie Title,Release Date,Wikipedia URL,Genre,Director (1),Director (2),Cast (1),Cast (2),Cast (3),Cast (4),Cast (5),Budget ,Revenue
+Movie Title,Release Date,Wikipedia URL,Genre,Director (1),Director (2),Cast (1),Cast (2),Cast (3),Cast (4),Cast (5),Budget , Revenue
 10 Cloverfield Lane,2016-03-08,https://en.wikipedia.org/wiki/10_Cloverfield_Lane,Thriller,Dan Trachtenberg,,Mary Elizabeth Winstead,John Goodman,John Gallagher,,,"$15,000,000.00","$108,300,000.00"
 13 Hours: The Secret Soldiers of Benghazi,2016-01-15,https://en.wikipedia.org/wiki/13_Hours:_The_Secret_Soldiers_of_Benghazi,Action,Michael Bay,,James Badge Dale,John Krasinski,Toby Stephens,Pablo Schreiber,Max Martini,"$45,000,000.00","$69,400,000.00"
 2 Guns,2013-08-02,https://en.wikipedia.org/wiki/2_Guns,Action,Baltasar Kormákur,,Mark Wahlberg,Denzel Washington,Paula Patton,Bill Paxton,Edward James Olmos,"$61,000,000.00","$131,900,000.00"
@@ -506,4 +506,5 @@ X-Men: Days of Future Past,2014-05-10,https://en.wikipedia.org/wiki/X-Men:_Days_
 You're Next,2013-08-23,https://en.wikipedia.org/wiki/You%2527re_Next,Horror,Adam Wingard,,Sharni Vinson,Joe Swanberg,AJ Bowen,Nicholas Tucci,Barbara Crampton,"$1,000,000.00","$26,800,000.00"
 Zero Dark Thirty,2012-12-19,https://en.wikipedia.org/wiki/Zero_Dark_Thirty,Drama,Kathryn Bigelow,,Jessica Chastain,Chris Pratt,Joel Edgerton,Kyle Chandler,Jason Clarke,"$40,000,000.00","$132,800,000.00"
 Zhong Kui: Snow Girl and the Dark Crystal,2015-02-19,https://en.wikipedia.org/wiki/Zhong_Kui:_Snow_Girl_and_the_Dark_Crystal,Romance,Peter Pau,,Li Bingbing,Chen Kun,Yang Zishan,Winston Chao,Bao Bei'er,"$30,000,000.00","$64,470,000.00"
+
 Zoolander 2,2016-02-12,https://en.wikipedia.org/wiki/Zoolander_2,Comedy,Ben Stiller,,Ben Stiller,Owen Wilson,Christine Taylor,Will Ferrell,Penélope Cruz,"$50,000,000.00","$56,000,000.00"
